@@ -10,7 +10,7 @@ Machine Learning project for detecting fraudulent credit card transactions
 ![Interface](Interface.png)
 
 ### Legitimate Sample
-![Legitimate Sample](legitimate sample.png)
+![Legitimate Sample](legitimatesample.png)
 
 ### Prediction
 ![Prediction](prediction%20.png)
